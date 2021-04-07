@@ -66,6 +66,4 @@ void main() {
 	result = (float)count / (float)limit * 4;	/*실수형 변수에 정수형 변수끼리의 계산결과를
 												대입하는 것이기 때문에 일시적으로 형변환을 해준다.*/
 	printf("RESULT : %f\n", result);
-	
-	printf("hello, world")
 }
