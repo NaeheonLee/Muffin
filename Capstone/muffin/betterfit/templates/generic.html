@@ -80,5 +80,12 @@
 			<script src="{%static 'betterfit/assets/js/util.js' %}"></script>
 			<script src="{%static 'betterfit/assets/js/main.js' %}"></script>
 
+	<form action="" method="POST">
+		{% csrf_token %}
+		<p>옷 이미지 사진</p>
+		<input name="clothes_img"type="file">
+		<input type ="submit" value="이미지 저장">
+	</form>
+
 	</body>
 </html>
