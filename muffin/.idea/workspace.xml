@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c789fa51-6dd1-4ba4-a42c-801022d62597" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/betterfit/templates/mannequin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/betterfit/templates/women.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Muffin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Muffin.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/betterfit/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/betterfit/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/betterfit/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/betterfit/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/betterfit/templates/elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/betterfit/templates/elements.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/betterfit/templates/generic.html" beforeDir="false" afterPath="$PROJECT_DIR$/betterfit/templates/generic.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/betterfit/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/betterfit/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/betterfit/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/betterfit/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/betterfit/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/betterfit/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/muffin/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/muffin/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/betterfit/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/betterfit/images/logo.svg" beforeDir="false" />
-    </list>
+    <list default="true" id="c789fa51-6dd1-4ba4-a42c-801022d62597" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,9 +11,10 @@
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1tFp9GZNvIYAlZdrIUujS0vAJNH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,7 +23,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
     <configuration name="muffin" type="Python.DjangoServer" factoryName="Django server">
@@ -77,6 +61,7 @@
       <updated>1622374540288</updated>
       <workItem from="1622374542302" duration="799000" />
       <workItem from="1622377797401" duration="655000" />
+      <workItem from="1622383879216" duration="1378000" />
     </task>
     <servers />
   </component>
